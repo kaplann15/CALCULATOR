@@ -13,7 +13,7 @@ class Display{
      }
 
      imprimirValores(){
-        this.displayValorActual.textContent = this.valorActual;
-        this.displayValorAnterior.textContent = this.valorAnterior;
+        this.displayValorActual.textContent = this.displayvalorActual;
+        this.displayValorAnterior.textContent = this.displayvalorAnterior;
      }
 }
